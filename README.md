@@ -1,6 +1,6 @@
 # testprotocol-antropometrie
 
-## achtergrond en doel
+### achtergrond en doel
 
 Dit onderzoek kadert binnen de ontwikkeling van een slimme loopgadget, een project dat met behulp van technologie de lopers wil ondersteunen zodat ze minder kans maken op blessures. Binnen deze oplossing wordt er gewerkt met real-time feedback gebaseerd op de info van een sensor bevestigd aan de enkel. Hierbij is het de bedoeling dat de schokken gemeten door de sensor worden vergeleken met andere data. Op deze manier wordt dan bepaald of de schokken te groot of goed genoeg zijn. Deze info wordt dan door real-time feedback meegedeeld met de loper. <br><br> 
 
@@ -20,13 +20,21 @@ exacte maat breedte display/pols
 </li>
 </ul>
 
-## methode
+### methode
 
 30 testen met personen in de leeftijdscategorie 20-60 jarigen, hierbij houden we geen rekening met gehandicapten, super lange mensen, ... vadnaar ongeveer 51,7%.
 
 ![foto'tje leeftijd](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/676a97d0-bec6-41a9-b9b8-886f8f69c30f)
 
-## 
+## Practicalia 
+
+Periode: 01 tot 03 maart 2024 <br>
+Locatie: atletiek piste Kortrijk, Chiro lokalen Wevelgem, huis Cédric, huis Daan, school
+
+## Overzicht & structuur protocol 
+
+DEEL 1: inleiding <br>
+DEEL 2: metingen <br>
 
 
 
