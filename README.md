@@ -20,6 +20,12 @@ exacte maat breedte display/pols
 </li>
 </ul>
 
+## methode
+
+30 testen met personen in de leeftijdscategorie 20-60 jarigen
+
+## 
+
 
 
  
