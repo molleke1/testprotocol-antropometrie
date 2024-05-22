@@ -48,8 +48,11 @@ We vragen daarna of het oké is dat we de omtrek van hun scheenbeen meten(a) en 
 
 ![voetjes](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/1f7b534c-1e19-482a-9d76-915836296a2d)
 <br>
-De afmetingen van de pols waren we eerst op heel dezelfde manier van plan, maar dit ging iets te veel tijd innemen voor resultaten die toch niet super accuraat gingen zijn. Vandaar dat we zochten naar een makkelijkere/betere oplossing.  
+De afmetingen van de pols waren we eerst op heel dezelfde manier van plan, maar dit ging iets te veel tijd innemen voor resultaten die toch niet super accuraat gingen zijn. Vandaar dat we zochten naar een makkelijkere/betere oplossing. 
 
+![handejes](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/dec3780a-be07-42dc-88de-ac9c07ebc5fc)
+<br>
+Deze gevonden oplossing was horloges opzoeken op het internet. Deze hebben namelijk een bepaalde grootte van display en hebben ook een bepaalde lengte. Door verschillende waardes van horloges te nemen hopen we een goed gemiddelde en goeie variantie te kunnen opstellen. Deze waarden kunnen wij dan weer gebruiken voor het maken van ons “sporthorloge”. 
 
 
 
