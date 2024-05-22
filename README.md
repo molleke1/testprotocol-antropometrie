@@ -1,4 +1,4 @@
-# testprotocol-antropometrie
+# testprotocol antropometrie
 
 ### achtergrond en doel
 
