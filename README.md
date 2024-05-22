@@ -19,6 +19,7 @@ exacte maat omtrek pols
 exacte maat breedte display/pols 
 </li>
 </ul>
-qsdfqdsf
+
+
 
  
