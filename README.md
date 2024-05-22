@@ -38,6 +38,10 @@ DEEL 2: metingen
 
 ## DEEL 1: INLEIDING 
 
+We benaderen de mensen en leggen kort ons concept uit.  <br><br>
+
+“Hallo wij zijn Daan en/of Cédric van de campus UGent Kortrijk. We zijn toekomstige industriële ingenieurs in de tak industrieel ontwerp en hadden een vraagje. Zo bestaat een van onze opdrachten eruit om een product te maken voor lopers zodat ze de kans hebben om blessure vrij te kunnen lopen. Dit doen we door een enkelband met sensor te bevestigen aan de loper. De sensor meet hierbij de schokken die worden uitgevoerd op het lichaam tijdens het lopen. Deze schokken kunnen dan worden vergeleken met andere data en zo weten we of je loopstijl in orde is of juist blessuregevoelig. Wel missen we nog de juiste maten voor de hoogte en omtrek van onze enkelband. Deze moet namelijk zo veel mogelijk mensen passen en vandaar dat we ons afvroegen of we eens jou maten zouden mogen opmeten?” 
+
 
 
 
