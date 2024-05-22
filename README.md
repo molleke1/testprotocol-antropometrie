@@ -47,6 +47,10 @@ We benaderen de mensen en leggen kort ons concept uit.  <br>
 We vragen daarna of het oké is dat we de omtrek van hun scheenbeen meten(a) en de hoogte van de enkel(b), zoals te zien hieronder.
 
 ![voetjes](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/1f7b534c-1e19-482a-9d76-915836296a2d)
+<br>
+De afmetingen van de pols waren we eerst op heel dezelfde manier van plan, maar dit ging iets te veel tijd innemen voor resultaten die toch niet super accuraat gingen zijn. Vandaar dat we zochten naar een makkelijkere/betere oplossing.  
+
+
 
 
 
