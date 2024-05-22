@@ -26,15 +26,19 @@ exacte maat breedte display/pols
 
 ![foto'tje leeftijd](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/676a97d0-bec6-41a9-b9b8-886f8f69c30f)
 
-## Practicalia 
+### Practicalia 
 
 Periode: 01 tot 03 maart 2024 <br>
 Locatie: atletiek piste Kortrijk, Chiro lokalen Wevelgem, huis Cédric, huis Daan, school
 
-## Overzicht & structuur protocol 
+### Overzicht & structuur protocol 
 
 DEEL 1: inleiding <br>
-DEEL 2: metingen <br>
+DEEL 2: metingen 
+
+## DEEL 1: INLEIDING 
+
+
 
 
 
