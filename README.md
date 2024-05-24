@@ -22,7 +22,7 @@ exacte maat breedte display/pols
 
 ### methode
 
-30 testen met personen in de leeftijdscategorie 20-60 jarigen, hierbij houden we geen rekening met gehandicapten, super lange mensen, ... vadnaar ongeveer 51,7%.
+30 testen met personen in de leeftijdscategorie 20-60 jarigen, hierbij houden we geen rekening met gehandicapten, super lange mensen, ... vandaar ongeveer 51,7%.
 
 ![foto'tje leeftijd](https://github.com/molleke1/testprotocol-antropometrie/assets/157485350/676a97d0-bec6-41a9-b9b8-886f8f69c30f)
 
